@@ -1,5 +1,5 @@
 # Anika TAP
-A project I created to practice sound implementation
+A project I created to practice sound implementation.
    
 
 # To all those who edit and modify
